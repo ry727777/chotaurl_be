@@ -17,3 +17,4 @@ def redirect_url(short_url, supabase):
     value = get_long_url(short_url=short_url, supabase=supabase)
     return value
     
+# https://ry727777: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@github.com/ry727777/chota_url_be.git
